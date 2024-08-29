@@ -30,6 +30,9 @@
     bottom: 100px;
   
 }
+.dr{
+    font-weight: 600;
+}
 .rounded:hover {
     
         transform: rotate(360deg);
