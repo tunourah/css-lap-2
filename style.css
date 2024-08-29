@@ -58,6 +58,8 @@
     
 }
 p{
+
+
     font-size:1.5em;
     font-weight: 300;
     
@@ -80,7 +82,7 @@ section{
 .sub-title{
     
     background-color: rgb(237, 170, 126);
-    border-radius: 100px;
+    border-radius: 80%;
     width: 150px;
     margin:50px 0 10px 0 ;
     padding: 10px;
