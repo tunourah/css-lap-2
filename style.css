@@ -26,6 +26,8 @@
 }
 .rounded{
     width: 250px;
+    position: relative;
+    bottom: 100px;
   
 }
 .rounded:hover {
