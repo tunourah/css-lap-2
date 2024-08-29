@@ -48,7 +48,7 @@
     left: 50%;
     transform: translate(-60%, -60%);
     color: white;
-    font-size: 20px;
+    font-size: 1.5em;
     font-weight: 1000;
    
     width: 30rem;
@@ -58,7 +58,7 @@
     
 }
 p{
-    font-size: 24px;
+    font-size:1.5em;
     font-weight: 300;
     
 }
@@ -74,7 +74,7 @@ section{
     position: relative;
     right: 30%;
     left: 30%;
-    font-size: 24px;
+    font-size: 1.5em;
 }
 .sub-title{
     
